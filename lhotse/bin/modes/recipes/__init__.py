@@ -16,7 +16,6 @@ from .cmu_indic import *
 from .cmu_kids import *
 from .commonvoice import *
 from .cslu_kids import *
-from .daily_talk import *
 from .dihard3 import *
 from .earnings21 import *
 from .earnings22 import *
@@ -45,6 +44,7 @@ from .peoples_speech import *
 from .primewords import *
 from .rir_noise import *
 from .spgispeech import *
+from .so_kaldi import *
 from .stcmds import *
 from .switchboard import *
 from .tal_asr import *
